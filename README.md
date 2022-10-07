@@ -269,3 +269,5 @@
 - :unicorn: [Kafka Exactly-Once-Semantics](https://github.com/confluentinc/confluent-kafka-python/releases/tag/v1.4.0) - How to produce and consume messages exactly once (1 hour)
 - :unicorn: [RabbitMQ: a message queue library with persistance](https://www.rabbitmq.com/tutorials/tutorial-one-python.html) - RabbitMQ is a messaging system with a message broker (4 hours)
 - :unicorn: [ZeroMQ: a socket library with message queue primitives](https://zguide.zeromq.org/) - ZeroMQ is a lightweight messaging system without a message broker (8 hours)
+
+(RADIX-AI)(https://github.com/radix-ai/awesome-machine-learning-engineer)
